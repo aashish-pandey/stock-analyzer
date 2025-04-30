@@ -16,8 +16,7 @@ A stock analyzer that's smarter than your average bear (market). It's like havin
 
 ```bash
 # If you don't know how to do this, maybe stocks aren't for you
-npm install
-npm start
+
 ```
 
 ## Disclaimer
